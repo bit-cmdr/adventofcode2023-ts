@@ -4,7 +4,9 @@
   "description": "",
   "scripts": {
     "day1": "node --loader ts-node/esm src/day1/puzzle1.ts",
-    "day1:part2": "node --loader ts-node/esm src/day1/puzzle2.ts"
+    "day1:part2": "node --loader ts-node/esm src/day1/puzzle2.ts",
+    "day2": "node --loader ts-node/esm src/day2/puzzle1.ts",
+    "day2:part2": "node --loader ts-node/esm src/day2/puzzle2.ts"
   },
   "keywords": [],
   "type": "module",
