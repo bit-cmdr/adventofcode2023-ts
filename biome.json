@@ -9,6 +9,9 @@
 			"recommended": true,
 			"complexity": {
 				"noExtraBooleanCast": "off"
+			},
+			"style": {
+				"noNonNullAssertion": "off"
 			}
 		}
 	},
