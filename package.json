@@ -10,7 +10,9 @@
     "day3": "node --loader ts-node/esm src/day3/puzzle1.ts",
     "day3:part2": "node --loader ts-node/esm src/day3/puzzle2.ts",
     "day4": "node --loader ts-node/esm src/day4/puzzle1.ts",
-    "day4:part2": "node --loader ts-node/esm src/day4/puzzle2.ts"
+    "day4:part2": "node --loader ts-node/esm src/day4/puzzle2.ts",
+    "day5": "node --loader ts-node/esm src/day5/puzzle1.ts",
+    "day5:part2": "node --loader ts-node/esm src/day5/puzzle2.ts"
   },
   "keywords": [],
   "type": "module",
